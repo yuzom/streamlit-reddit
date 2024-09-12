@@ -1,0 +1,5 @@
+secrets.toml
+firestore-key.json
+__pychache__/
+venv/
+*.pyc
